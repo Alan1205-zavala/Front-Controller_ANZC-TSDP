@@ -10,3 +10,6 @@ de acceso para todas las peticiones.
 
 Solo ingresar la carpeta completa "Proyecto_mvc" en xammp/htdocs..
 Abrir el navegador y poner localhost/Proyecto_mvc, y listo.
+
+[Contribution guidelines for this project](/UML)
+
